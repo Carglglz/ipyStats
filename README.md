@@ -27,7 +27,7 @@ istat.cpu_temp()
 {'CPU temp': '40.81°C'}
 
 istat.batt_time()
-{'Battery time remaining': 'Unlimited'} ## This means is charger is connected
+{'Battery time remaining': 'Unlimited'} ## This means charger is connected
 
 istat.batt_charge()
 {'Battery charge': '100%'}
